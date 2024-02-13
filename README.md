@@ -13,16 +13,16 @@ Importa o URL https://raw.githubusercontent.com/afonso-brito-carvalho/dumdumpoli
 
 # FAQ
 
- - Como importo o filtro para o meu adblocker?
+** - Como importo o filtro para o meu adblocker?**
    Vai depender do que tens instalado, mas para o Ublock Origin, é preciso aceder às listas de filtros e importar o URL aqui:
    ![imagem](https://github.com/afonso-brito-carvalho/dumdumpolitica/assets/49483807/0ff7ad79-fcaa-4c77-a92f-1b3ed9b44f6e)
 
    Se tens outro adblocker, consulta a documentação - o processo deve ser semelhante.
-
- - Porque é que não bloqueias isto tudo pelo Linkedin?
+**
+ - Porque é que não bloqueias isto tudo pelo Linkedin?**
    O Linkedin está mais interessado em vender cliques do que permitir aos seus utilizadores personalizar a sua feed: mesmo que não sigas uma página e mesmo depois de informares múltiplas vezes que não desejas ver conteúdo da mesma, basta alguém do teu círculo    interagir com a mesma para voltares a ser agraciado com tralha.
-
- - Não tens o Tó Zé das Iscas nem o Paulo de Montemor o Velho na lista de filtros! Deves ser um criptocomunista/facho/liberalóide!
+**
+ - Não tens o Tó Zé das Iscas nem o Paulo de Montemor o Velho na lista de filtros! Deves ser um criptocomunista/facho/liberalóide!**
    Devido à imensidão da classe política que abençoa este pequeno país de 10 milhões, não estou especialmente interessado em manter-me a par da crescente caderneta de cromos a que chamamos "política". Abre um issue aqui com a página do cromo e pensamos em        como escrever o filtro.
 
 
