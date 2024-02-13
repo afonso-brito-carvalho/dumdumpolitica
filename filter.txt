@@ -1,5 +1,29 @@
+!
+!  Partidos
+!
+
 linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1):-abp-contains(Iniciativa Liberal))
 linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1):-abp-contains(PSD - Partido Social Democrata))
 linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1):-abp-contains(Bloco de Esquerda))
-linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1):-abp-contains(Expresso))
-linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1):-abp-contains(Público))
+linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1):-abp-contains(Partido CHEGA))
+
+!
+!  Carteira de cromos: deputados, funcionários, panfletários profissionais associados a partidos
+!  Seletor deve apontar para a função e não para o nome do indíviduo. Ninguém tem culpa de partilhar nome com certas personagens...
+!
+
+! Genérico para senhores
+linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(2) > span:nth-child(1):-abp-contains(Deputado))
+linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(2) > span:nth-child(1):-abp-contains(Eurodeputado))
+
+! Genérico para senhoras
+linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(2) > span:nth-child(1):-abp-contains(Deputada))
+linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(2) > span:nth-child(1):-abp-contains(Eurodeputada))
+
+! Posições
+linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(2) > span:nth-child(1):-abp-contains(Bloco de Esquerda))
+linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(2) > span:nth-child(1):-abp-contains(Partido Socialista))
+linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(2) > span:nth-child(1):-abp-contains(PCP))
+linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1):-abp-contains(Iniciativa Liberal))
+linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1):-abp-contains(Chega))
+linkedin.com#?#.feed-shared-update-v2:-abp-has(div:nth-child(1) > div:nth-child(5) > div:nth-child(1) > div:nth-child(2) > a:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1) > span:nth-child(1):-abp-contains(PSD))
