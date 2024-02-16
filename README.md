@@ -1,4 +1,6 @@
 # Dum Dum Política
+![logo](https://github.com/afonso-brito-carvalho/dumdumpolitica/assets/49483807/e66cc125-9992-4b2a-ac2b-ad14d054c5ae)  
+
 Filtro em formato EasyList para bloquear panfletos partidários no Linkedin
 
  - Farto de ver o chefe a comentar verborreias da Iniciativa Liberal enquanto diz que está muito ocupado?
